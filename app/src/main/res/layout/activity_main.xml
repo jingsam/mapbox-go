@@ -13,6 +13,19 @@
         mapbox:style_url="mapbox://styles/maper/ciqn9yuj90009bnnolbp8i3nb"
         mapbox:center_latitude="41.885"
         mapbox:center_longitude="-87.679"
-        mapbox:zoom="12"
-        mapbox:tilt="20"/>
+        mapbox:zoom="16"
+        mapbox:tilt="20" />
+
+    <ImageButton
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:id="@+id/btnPokeball"
+        android:src="@mipmap/ic_launcher"
+        android:clickable="true"
+        android:background="#00ffffff"
+        android:scaleType="fitCenter"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp" />
+
 </RelativeLayout>

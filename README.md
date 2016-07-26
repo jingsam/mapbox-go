@@ -1,2 +1,2 @@
 # mapbox-go
-A Pokémon GO monster map built with Mapbox Android SDK
+A Pokémon radar built with Mapbox Android SDK
